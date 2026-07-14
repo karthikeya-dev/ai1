@@ -1,0 +1,105 @@
+/* Modern Premium Styles for SmartCampusAI */
+
+/* Glassmorphism containers */
+.glass-card {
+    background: rgba(255, 255, 255, 0.03);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    border-radius: 16px;
+    padding: 24px;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.glass-card:hover {
+    transform: translateY(-2px);
+    border-color: rgba(0, 240, 255, 0.3);
+    box-shadow: 0 12px 40px 0 rgba(0, 240, 255, 0.1);
+}
+
+/* Light mode overrides for glassmorphism */
+[data-theme="light"] .glass-card {
+    background: rgba(15, 23, 42, 0.03);
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    box-shadow: 0 8px 32px 0 rgba(15, 23, 42, 0.05);
+}
+
+[data-theme="light"] .glass-card:hover {
+    border-color: rgba(15, 23, 42, 0.2);
+    box-shadow: 0 12px 40px 0 rgba(15, 23, 42, 0.08);
+}
+
+/* Responsive card grid */
+.dashboard-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 20px;
+    margin-bottom: 24px;
+}
+
+/* Custom interactive button styling hints */
+div.stButton > button {
+    background-image: linear-gradient(135deg, var(--primary-color) 0%, #00b4d8 100%) !important;
+    color: #ffffff !important;
+    font-weight: 600 !important;
+    border: none !important;
+    box-shadow: 0 4px 15px rgba(0, 240, 255, 0.2) !important;
+    transition: all 0.2s ease-in-out !important;
+}
+
+div.stButton > button:hover {
+    transform: scale(1.02) !important;
+    box-shadow: 0 6px 20px rgba(0, 240, 255, 0.4) !important;
+}
+
+div.stButton > button:active {
+    transform: scale(0.98) !important;
+}
+
+/* Title gradient effect */
+.gradient-text {
+    background: linear-gradient(135deg, #00f0ff 0%, #8b5cf6 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 800;
+}
+
+/* Custom badge styling */
+.custom-badge {
+    display: inline-block;
+    padding: 4px 12px;
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.badge-admin {
+    background-color: rgba(139, 92, 246, 0.15);
+    color: #a78bfa;
+    border: 1px solid rgba(139, 92, 246, 0.3);
+}
+
+.badge-faculty {
+    background-color: rgba(245, 158, 11, 0.15);
+    color: #fbbf24;
+    border: 1px solid rgba(245, 158, 11, 0.3);
+}
+
+.badge-student {
+    background-color: rgba(16, 185, 129, 0.15);
+    color: #34d399;
+    border: 1px solid rgba(16, 185, 129, 0.3);
+}
+
+/* Footer layout */
+.footer-text {
+    text-align: center;
+    color: var(--text-color);
+    opacity: 0.6;
+    margin-top: 40px;
+    font-size: 0.85rem;
+}

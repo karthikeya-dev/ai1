@@ -1,0 +1,46 @@
+[
+    {
+        "company_name": "Google",
+        "package": "32 LPA",
+        "eligible_branches": [
+            "CSE",
+            "ECE"
+        ],
+        "drive_date": "2026-08-15",
+        "applied_students": [
+            "STU101"
+        ],
+        "selected_students": [
+            "STU101"
+        ]
+    },
+    {
+        "company_name": "Microsoft",
+        "package": "28 LPA",
+        "eligible_branches": [
+            "CSE"
+        ],
+        "drive_date": "2026-09-02",
+        "applied_students": [
+            "STU101",
+            "STU102"
+        ],
+        "selected_students": []
+    },
+    {
+        "company_name": "Infosys",
+        "package": "6.5 LPA",
+        "eligible_branches": [
+            "CSE",
+            "ECE",
+            "Civil"
+        ],
+        "drive_date": "2026-09-10",
+        "applied_students": [
+            "STU103"
+        ],
+        "selected_students": [
+            "STU103"
+        ]
+    }
+]

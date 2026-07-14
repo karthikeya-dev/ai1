@@ -1,0 +1,119 @@
+[
+    {
+        "date": "2026-07-10",
+        "student_id": "STU101",
+        "name": "John Connor",
+        "branch": "CSE",
+        "year": "3rd Year",
+        "section": "A",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-10",
+        "student_id": "STU102",
+        "name": "Marcus Wright",
+        "branch": "ECE",
+        "year": "4th Year",
+        "section": "B",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-10",
+        "student_id": "STU103",
+        "name": "Kate Brewster",
+        "branch": "Civil",
+        "year": "2nd Year",
+        "section": "A",
+        "status": "Absent"
+    },
+    {
+        "date": "2026-07-11",
+        "student_id": "STU101",
+        "name": "John Connor",
+        "branch": "CSE",
+        "year": "3rd Year",
+        "section": "A",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-11",
+        "student_id": "STU102",
+        "name": "Marcus Wright",
+        "branch": "ECE",
+        "year": "4th Year",
+        "section": "B",
+        "status": "Late"
+    },
+    {
+        "date": "2026-07-11",
+        "student_id": "STU103",
+        "name": "Kate Brewster",
+        "branch": "Civil",
+        "year": "2nd Year",
+        "section": "A",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-12",
+        "student_id": "STU101",
+        "name": "John Connor",
+        "branch": "CSE",
+        "year": "3rd Year",
+        "section": "A",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-12",
+        "student_id": "STU102",
+        "name": "Marcus Wright",
+        "branch": "ECE",
+        "year": "4th Year",
+        "section": "B",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-12",
+        "student_id": "STU103",
+        "name": "Kate Brewster",
+        "branch": "Civil",
+        "year": "2nd Year",
+        "section": "A",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-13",
+        "student_id": "STU101",
+        "name": "John Connor",
+        "branch": "CSE",
+        "year": "3rd Year",
+        "section": "A",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-13",
+        "student_id": "STU102",
+        "name": "Marcus Wright",
+        "branch": "ECE",
+        "year": "4th Year",
+        "section": "B",
+        "status": "Absent"
+    },
+    {
+        "date": "2026-07-13",
+        "student_id": "STU103",
+        "name": "Kate Brewster",
+        "branch": "Civil",
+        "year": "2nd Year",
+        "section": "A",
+        "status": "Present"
+    },
+    {
+        "date": "2026-07-14",
+        "student_id": "STU123",
+        "name": "karthikeya ramavath",
+        "branch": "CSE",
+        "year": "1st Year",
+        "section": "A",
+        "status": "Absent"
+    }
+]

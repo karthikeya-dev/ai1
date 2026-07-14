@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Campus Admin",
+        "email": "admin@smartcampus.edu",
+        "mobile": "9999999999",
+        "username": "admin",
+        "password": "$2b$12$nSoW9WTfsm8Pi20LthhfheEPhip9p7wRI6cOD1npPE/l0hlbUZy1y",
+        "role": "Admin"
+    },
+    {
+        "name": "Dr. Sarah Connor",
+        "email": "sconnor@smartcampus.edu",
+        "mobile": "9888888888",
+        "username": "faculty",
+        "password": "$2b$12$jNJWYWl0RiD3iC67EshTeORsB.FX/cOcZTDYtoN8By0QXA4sdEhvS",
+        "role": "Faculty"
+    },
+    {
+        "name": "John Connor",
+        "email": "jconnor@smartcampus.edu",
+        "mobile": "9777777777",
+        "username": "student",
+        "password": "$2b$12$CHSc7zBK6GMg/n.st.DC.uJaCu5UQce1DzMWmB7X0vXomQU.gmFve",
+        "role": "Student"
+    },
+    {
+        "name": "ramavath karthikeya",
+        "email": "k@gmail.com",
+        "mobile": "9398505623",
+        "username": "karthik",
+        "password": "$2b$12$ubo3UitAozmxf4yNaq05fudBmh7ag//2w0tGmNtqtbEpl.92OKA1a",
+        "role": "Faculty"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "id": "ann_1",
+        "title": "Google Recruitment Drive",
+        "content": "Google campus recruitment drive is scheduled for August 15, 2026. Eligible branches: CSE and ECE. Register on the Placements page before August 10.",
+        "author": "Campus Admin",
+        "date": "2026-07-14"
+    },
+    {
+        "id": "ann_2",
+        "title": "Semester Registration Deadline",
+        "content": "Please complete your course and semester registrations on or before July 25, 2026. Late fees will apply after the deadline.",
+        "author": "Dr. Sarah Connor",
+        "date": "2026-07-12"
+    }
+]

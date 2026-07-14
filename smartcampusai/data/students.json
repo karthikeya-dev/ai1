@@ -1,0 +1,46 @@
+[
+    {
+        "student_id": "STU101",
+        "name": "John Connor",
+        "branch": "CSE",
+        "year": "3rd Year",
+        "section": "A",
+        "phone": "9777777777",
+        "email": "jconnor@smartcampus.edu",
+        "address": "123 Resistance Way, LA",
+        "skills": "Python, CyberSecurity, Hardware hacks"
+    },
+    {
+        "student_id": "STU102",
+        "name": "Marcus Wright",
+        "branch": "ECE",
+        "year": "4th Year",
+        "section": "B",
+        "phone": "9887776665",
+        "email": "mwright@smartcampus.edu",
+        "address": "456 Cyberdyne Blvd, SF",
+        "skills": "C++, Robotics, Signal Processing"
+    },
+    {
+        "student_id": "STU103",
+        "name": "Kate Brewster",
+        "branch": "Civil",
+        "year": "2nd Year",
+        "section": "A",
+        "phone": "9555554433",
+        "email": "kbrewster@smartcampus.edu",
+        "address": "789 Bunker Hill, TX",
+        "skills": "AutoCAD, Structural Design, Project Mgmt"
+    },
+    {
+        "student_id": "STU123",
+        "name": "karthikeya ramavath",
+        "branch": "CSE",
+        "year": "1st Year",
+        "section": "A",
+        "phone": "9398505623",
+        "email": "k@gmail.com",
+        "address": "singam palli thanda(v),atmakuru(m),ananthapur(dist),andhra pradesh(dist)",
+        "skills": "python"
+    }
+]

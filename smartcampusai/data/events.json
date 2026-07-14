@@ -1,0 +1,18 @@
+[
+    {
+        "id": "evt_1",
+        "title": "TechFest 2026",
+        "date": "2026-08-01",
+        "time": "09:00 AM",
+        "venue": "Main Auditorium",
+        "description": "Annual technical symposium of SmartCampusAI. Hackathons, paper presentations, and robotic workshops."
+    },
+    {
+        "id": "evt_2",
+        "title": "AI & Ethics Guest Lecture",
+        "date": "2026-07-20",
+        "time": "02:30 PM",
+        "venue": "Seminar Hall-A",
+        "description": "Distinguished lecture on the challenges and future of AI ethics in education and corporate domains."
+    }
+]
